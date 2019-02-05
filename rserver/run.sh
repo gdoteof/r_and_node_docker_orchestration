@@ -1,1 +1,1 @@
-docker run -ti --rm=true cardcorp/`basename "${PWD}"` bash
+docker run -ti --rm=true `basename "${PWD}"` bash
