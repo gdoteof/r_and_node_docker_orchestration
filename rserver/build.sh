@@ -1,1 +1,1 @@
-docker build -t rserver .
+sudo docker build -t rserver .
